@@ -26,6 +26,8 @@ Pre adminov, je možnosť skontrolovať losovanie (ale v prípade skutočného l
 
 <img width="825" height="337" alt="image" src="https://github.com/user-attachments/assets/a9c31a25-c79f-4562-9d27-dda4b0ab7f0b" />
 
+P.S.: Občas je nutné vyčisťiť cache pamäť a spustiť znova:
+<img width="1448" height="360" alt="image" src="https://github.com/user-attachments/assets/25cd74c8-bea8-46ee-b6c5-1d3d42a9a665" />
 
 
 
