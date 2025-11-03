@@ -11,15 +11,21 @@ Tento repozitár skopírujes ako link: 'https://github.com/JakubKandra/vianocnyS
 
 Odkiaľ skopírujes vytborený link do nového okna 'https://vianocnyskriatok.onrender.com', kde mozes vytvorit losovanie ako v tomto príklade:
 
-<img width="891" height="430" alt="image" src="https://github.com/user-attachments/assets/506e833a-ba32-41e8-a6e7-2f3c3a5e7000" />
+<img width="893" height="425" alt="image" src="https://github.com/user-attachments/assets/283e0ebe-0679-40b3-a442-1e3b84afd1f6" />
 
-Taktiež pre niektorého učastnika sa dá skopírovať link napr. 'https://vianocnyskriatok.onrender.com/p/7100eba8-f95b-4fc0-b77d-db6ff24f5b3b'
+Kliknutím na 'Vytvoriť losovanie' otvoríš nový link:
 
-<img width="771" height="191" alt="image" src="https://github.com/user-attachments/assets/58b14ba2-97ed-4dc6-8a84-a694733e8909" />
+<img width="943" height="323" alt="image" src="https://github.com/user-attachments/assets/c3afd17a-06e9-4f6b-8518-007649b28e89" />
+
+V prípade neočakavaného výstupu, vráť sa krok spät a vytvor losovanie znova. 
+Taktiež pre niektorého učastnika sa dá skopírovať link napr. 'http://vianocnyskriatok.onrender.com/p/a55fc2b4-f38d-41af-b118-f48ad59307bf'
+
+<img width="772" height="183" alt="image" src="https://github.com/user-attachments/assets/393b9b54-bfa4-4a1f-8fee-998c719b7111" />
 
 Pre adminov, je možnosť skontrolovať losovanie (ale v prípade skutočného losovania doporučujeme skontrolovať vianočného škriatka az po Vianociach)
 
-<img width="828" height="337" alt="image" src="https://github.com/user-attachments/assets/1ee5f0c9-7b85-4258-90a2-cffee30ff0df" />
+<img width="825" height="337" alt="image" src="https://github.com/user-attachments/assets/a9c31a25-c79f-4562-9d27-dda4b0ab7f0b" />
+
 
 
 
