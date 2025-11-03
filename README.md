@@ -4,9 +4,11 @@ Vianočný škriatok je algoritmus na losovanie pomoci Ježiškovi pri zaobstara
 Ako spustit Vianocného škriatka?
 
 <img width="448" height="368" alt="image" src="https://github.com/user-attachments/assets/7c1dd666-6358-4188-bedb-35f8691e0249" />
+
 Tento repozitár skopírujes ako link: 'https://github.com/JakubKandra/vianocnySkriatok/tree/main'
 
 <img width="712" height="233" alt="image" src="https://github.com/user-attachments/assets/fa2e8eb7-ad8e-41fc-a27b-0f21b174c887" />
+
 Odkiaľ skopírujes vytborený link do nového okna 'https://vianocnyskriatok.onrender.com', kde mozes vytvorit losovanie ako v tomto príklade:
 
 <img width="891" height="430" alt="image" src="https://github.com/user-attachments/assets/506e833a-ba32-41e8-a6e7-2f3c3a5e7000" />
